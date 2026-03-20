@@ -324,7 +324,7 @@ const styles = `
     font-weight: 500;
     letter-spacing: 0.1em;
     text-transform: uppercase;
-    color: ${accent};
+    color: white;
     opacity: 0;
     transform: translateY(8px);
     transition: opacity 0.4s ease, transform 0.4s ease;
