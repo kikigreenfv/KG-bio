@@ -13,18 +13,18 @@ export const metadata: Metadata = {
   icons: {
     icon: '/favicon.ico',
   },
-
-  export default function RootLayout({
-    children,
-  }: {
-    children: React.ReactNode
-  }) {
-    return (
-      <html lang="en">
-        <body className="font-sans antialiased">
-          {children}
-          <Analytics />
-        </body>
-      </html>
-    )
+}
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode
+}) {
+  return (
+    <html lang="en">
+      <body className="font-sans antialiased">
+        {children}
+        <Analytics />
+      </body>
+    </html>
+  )
 }
