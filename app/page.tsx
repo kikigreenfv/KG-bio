@@ -434,7 +434,7 @@ export default function Bio() {
             <FadeUp delay={100}>
               <div className="hero-issue">Profile</div>
               <h1 className="hero-name">Kirsten<br />Green</h1>
-              <div className="hero-role">Founder & General Partner, Forerunner</div>
+              <div className="hero-role">Founder and Managing Partner, Forerunner</div>
             </FadeUp>
             <FadeUp delay={250}>
               <p className="hero-thesis">

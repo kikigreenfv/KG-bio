@@ -7,7 +7,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Kirsten Green | Founder & General Partner, Forerunner',
+  title: 'Kirsten Green | Founder and Managing Partner, Forerunner',
   description: 'Venture capitalist backing founders at the intersection of AI and human experience. 10+ years, $3B raised, Midas List — 10 consecutive.',
   generator: 'v0.app',
   icons: {
