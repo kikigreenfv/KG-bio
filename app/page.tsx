@@ -463,7 +463,7 @@ export default function Bio() {
               <div className="credential-item">
                 <span className="credential-label">Recognition</span>
                 <span className="credential-value">
-                  Midas List — 9 consecutive. Time 100. Forbes' Most Powerful Women. Vanity Fair's New Establishment. Barron's Most Influential Women in Finance. NYT Top 20 Venture Capitalists.
+                  Midas List — 10 consecutive. Time 100. Forbes' Most Powerful Women. Vanity Fair's New Establishment. Barron's Most Influential Women in Finance. NYT Top 20 Venture Capitalists.
                 </span>
               </div>
               <div className="credential-item">
