@@ -3,10 +3,10 @@
 import { useEffect, useRef } from "react";
 
 const ink = "#111111"; // Deep ink - primary text
-const lightGray = "#FAFAFA"; // Very light gray - main background
-const warmGray = "#EFEFEF"; // Warm gray - secondary backgrounds
+const lightGray = "#EFE9E1"; // Warm sand - main background
+const warmGray = "#E6DED3"; // Deeper sand - secondary backgrounds
 const accent = "#9F7AEA"; // Purple accent for headers
-const stone = "#E0E0E0"; // Light stone - borders, dividers
+const stone = "#D9D0C4"; // Warm stone - borders, dividers
 const charcoal = "#1A1A1A"; // Dark charcoal - secondary text
 
 const styles = `
