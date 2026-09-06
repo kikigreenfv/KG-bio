@@ -5,7 +5,7 @@ import { useEffect, useRef } from "react";
 const ink = "#111111"; // Deep ink - primary text
 const lightGray = "#EFE9E1"; // Warm sand - main background
 const warmGray = "#E6DED3"; // Deeper sand - secondary backgrounds
-const accent = "#9F7AEA"; // Purple accent for headers
+const accent = "#301111"; // Forerunner burgundy accent for headers
 const stone = "#D9D0C4"; // Warm stone - borders, dividers
 const charcoal = "#1A1A1A"; // Dark charcoal - secondary text
 
