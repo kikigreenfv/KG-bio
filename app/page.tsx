@@ -3,10 +3,10 @@
 import { useEffect, useRef } from "react";
 
 const ink = "#111111"; // Deep ink - primary text
-const lightGray = "#FAFAFA"; // Very light gray - main background
-const warmGray = "#EFEFEF"; // Warm gray - secondary backgrounds
-const accent = "#9F7AEA"; // Purple accent for headers
-const stone = "#E0E0E0"; // Light stone - borders, dividers
+const lightGray = "#EFE9E1"; // Warm sand - main background
+const warmGray = "#E6DED3"; // Deeper sand - secondary backgrounds
+const accent = "#301111"; // Forerunner burgundy accent for headers
+const stone = "#D9D0C4"; // Warm stone - borders, dividers
 const charcoal = "#1A1A1A"; // Dark charcoal - secondary text
 
 const styles = `
@@ -463,7 +463,7 @@ export default function Bio() {
               <div className="credential-item">
                 <span className="credential-label">Recognition</span>
                 <span className="credential-value">
-                  Midas List — 9 consecutive. Time 100. Forbes' Most Powerful Women. Vanity Fair's New Establishment. Barron's Most Influential Women in Finance. NYT Top 20 Venture Capitalists.
+                  Midas List — 10 consecutive. Time 100. Forbes' Most Powerful Women. Vanity Fair's New Establishment. Barron's Most Influential Women in Finance. NYT Top 20 Venture Capitalists.
                 </span>
               </div>
               <div className="credential-item">
