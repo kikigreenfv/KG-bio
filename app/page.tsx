@@ -470,7 +470,7 @@ export default function Bio() {
                 <span className="credential-label">Portfolio</span>
                 <span className="credential-value">
                   <strong>Category leaders:</strong> Chime, Warby Parker, Hims & Hers, Glossier, Dollar Shave Club, Faire, Jet.<br />
-                  <strong>AI native:</strong> Daydream, Natural, SuperMe, Mindtrip, humans&, Wabi, Bluelabs, Zeroclick.
+                  <strong>AI native:</strong> Town, Decagon, Daydream, Natural, SuperMe, Mindtrip, humans&, Wabi, Bluelabs, Zeroclick.
                 </span>
               </div>
             </div>
